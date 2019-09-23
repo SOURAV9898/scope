@@ -1,0 +1,176 @@
+/* font-family: 'Ubuntu', sans-serif; */
+/* NAV BAR SECTION */
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+  padding-left: 20%;
+}
+
+.topnav-centered {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.nav-link {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* First Page Section */
+.introduction {
+  background-color: #31363C;
+  padding: 15%;
+}
+
+.scope {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 6rem;
+  white-space: pre;
+  text-align: center;
+}
+
+.company {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+.since {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+/* Second Page Section */
+.about {
+  background-color: #1F2227;
+}
+
+.about-us {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  padding-top: 5%;
+  padding-left: 20%;
+
+}
+
+.economy {
+  color: #50535A;
+  width: 80%;
+  padding-top: 1%;
+
+}
+
+.row {
+  padding-left: 10%;
+}
+
+.card {
+  border: none;
+  background-color: #1F2227;
+  color: white;
+  padding-bottom: 5%;
+}
+
+/* Third Page Section */
+.heading {
+  color: black;
+  font-family: 'Ubuntu', sans-serif;
+  padding-top: 5%;
+  padding-left: 20%;
+}
+
+.second{
+  border: none;
+  background-color: white;
+  color: black;
+}
+
+.image{
+  width: 50%;
+}
+
+.explain{
+  color: #50535A;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* FORTH PAGE SECTION */
+
+.forth-page{
+  background-color: #191C21;
+}
+
+.team{
+  padding-top: 5%;
+  padding-left: 20%;
+}
+
+.meet{
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.team-intro{
+  font-family: 'Ubuntu', sans-serif;
+  color: #4C5059;
+  width: 80%;
+}
+
+.forth{
+  padding-top: 5%;
+  border: none;
+  background-color: #191C21;
+}
+
+.forth-intro{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+}
+
+.card-img-top{
+  text-align: center;
+}
+
+
+/* Conclusion Section */
+
+.conclusion{
+  background-color: white;
+}
+
+
+.scope-outro{
+color: black;
+ font-family: 'Ubuntu', sans-serif;
+ text-align: center;
+}
+
+
+.outro{
+  padding-top: 3%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.socials{
+  text-align: center;
+padding-bottom: 2%;
+}
+
+.fa-cog{
+  color: black;
+}
+
+
+.fb{
+  padding-right: 1%
+}
+
+.tw{
+  padding-right: 1%
+}
